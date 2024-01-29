@@ -1,0 +1,7 @@
+body {
+   font-family: Verdana, sans-serif !important;
+}
+
+.hoverPointer:hover {
+   cursor: pointer;
+}
